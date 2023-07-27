@@ -1,0 +1,22 @@
+.prodContainer {
+    padding: 10px;
+    width: 70%;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.prodContainer .prodItem {
+    width: 30%;
+   height: 250px;
+   margin: 10px;
+}
+
+.imgWrap{
+    height: 150px;
+}
+
+.prodContainer .prodItem img {
+    width: 100%;
+    height: 100%;
+}

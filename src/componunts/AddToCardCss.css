@@ -1,0 +1,6 @@
+.addCardContainer {
+    width: 20%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
